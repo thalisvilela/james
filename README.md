@@ -1,6 +1,6 @@
-### This project is in maintenance mode
+### Liked James very much! Just needed a couple of features to be perfect for me.
 
-Maintainers or forks welcome: the original James team aren't able to spend the same amount of time on James anymore.
+JSON beautifier for body responses and requests. HTTPS passthrough.
 
 # James
 
